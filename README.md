@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/564x/b1/5b/3b/b15b3b88edcd75c34173c552737e73a9.jpg)]
+<div align="center">
+  <img src="https://i.pinimg.com/564x/b1/5b/3b/b15b3b88edcd75c34173c552737e73a9.jpg" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Treasure M. Lottring</h1>
 <h3 align="center">A passionate software developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
